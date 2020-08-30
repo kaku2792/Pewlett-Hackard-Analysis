@@ -20,3 +20,4 @@ Are there enough qualified, retirement-ready employees in the departments to men
 
 Yes there are 1,549 employees that are eligible for the program. If for some reason the people do not want to be a mentor, they can also extent their age range to have more people quilify, or ask people who may not qualify to prove they are able to be a mentor if they fill certain criteria. 
 
+Images for this is in Data under Write_up folder
